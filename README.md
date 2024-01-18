@@ -76,7 +76,7 @@ SHOW TABLES;
 
 ## 데이터 마트
 
-* 1: 어떤 영업 담당자가 어떤 고객을 담당합니까?
+* 1: 어떤 영업 사원이 어떤 계정을 담당하고 있나요 ?
 ```sql
 SELECT
     SR.NAME AS SALES_REP_NAME,
